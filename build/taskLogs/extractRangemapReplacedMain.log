@@ -1,0 +1,9 @@
+Symbol range map extraction starting
+Processing 7 files
+processing com\example\nebula\ChatPoller.java
+processing com\example\nebula\ConfigAutoReloader.java
+processing com\example\nebula\DiscordWebhookSender.java
+processing com\example\nebula\MbeldozCommand.java
+processing com\example\nebula\MbeldozConfig.java
+processing com\example\nebula\NebulaMod.java
+processing com\example\nebula\NebulaTrigger.java
